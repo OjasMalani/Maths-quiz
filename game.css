@@ -39,3 +39,12 @@ text-align: left;
 	color: black;
 	background-color: gold;
 }
+
+#output{
+	background-color: white;
+	border-radius: 10px;
+	text-align: left;
+	border-top: 10px solid red;
+	padding: 10px;
+	float: none;
+}
