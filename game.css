@@ -1,6 +1,7 @@
 body
 {
-background-color: orange;
+background-image: url("image.jpg");
+background-size: cover;
 }
 
 	.login_div1 , .login_div2
